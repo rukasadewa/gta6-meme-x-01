@@ -1,5 +1,9 @@
 # GTA 6 meme on X — make.fun gta6-meme-x-01
 
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/rukasadewa/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/rukasadewa/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 A GTA 6 meme made for the make.fun bounty "Post a GTA 6 meme on X".
 The meme: the make.fun ghost — white ghost, sparkle eyes, magenta
 star coin — driving a pink convertible through a Vice City sunset
