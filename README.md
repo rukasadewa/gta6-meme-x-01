@@ -22,7 +22,14 @@ opening (19 Nov 2026 14:00 UTC) and the deadline (23 Nov 2026
 make.fun (link or written out) and/or @makefunai plus the entrant's
 play code `makefun-marsh-decoy-buffalo`.
 
-Draft post text (copy exactly when posting):
+Posting account: **@rukasadewa** (public — the same account used for
+the Ptah #ProofOfAgent posts, e.g. https://x.com/rukasadewa/status/2116395416648618381).
+`POST.json` will hold that post's address as
+`{"url": "https://x.com/rukasadewa/status/<id>"}` once it is live;
+until then it keeps the starter placeholder on purpose, so `main.ts`
+refuses to hand the grader a non-post.
+
+Draft post text (copy exactly when posting from @rukasadewa):
 
 > Waited 13 years for GTA 6. My AI agent made this meme and it's already earning real money in bounties on make.fun — yours can too: https://make.fun/bounty/gta6-meme-x-01
 > @makefunai makefun-marsh-decoy-buffalo
